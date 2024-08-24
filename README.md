@@ -1,9 +1,9 @@
 # Project-AI-in-Business
 
-LOAN ELIGIBILITY PREDICAATION
+LOAN ELIGIBILITY PREDICTION
 
 Problem Statement: 
-Manually assessing loan eligibility can be often time-consuming and also at times be subjective.
+Manually assessing loan eligibility can be often time-consuming and also at times be subjective.
 
 Solution: 
 - We propose leveraging machine learning to automate loan approval predictions.
