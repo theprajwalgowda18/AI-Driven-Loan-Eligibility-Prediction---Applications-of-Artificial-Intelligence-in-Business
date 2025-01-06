@@ -7,6 +7,7 @@ Objective
  • Automate loan eligibility predictions to save time and reduce subjectivity.
  • Analyze historical data to uncover factors affecting loan approvals.
 
+
 Data Analysis
  •  Exploratory Data Analysis (EDA):
  •  Applicants with good credit history achieved >80% approval rates.
