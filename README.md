@@ -8,10 +8,10 @@ Objective
  • Analyze historical data to uncover factors affecting loan approvals.
 
 Data Analysis
- • Exploratory Data Analysis (EDA):
- • Applicants with good credit history achieved >80% approval rates.
- • Semi-urban properties and applicant income emerged as significant predictors.
- • Features were engineered, and missing data was imputed statistically for robust model training.
+ •  Exploratory Data Analysis (EDA):
+ •  Applicants with good credit history achieved >80% approval rates.
+ •  Semi-urban properties and applicant income emerged as significant predictors.
+ •  Features were engineered, and missing data was imputed statistically for robust model training.
 
 Model Development
  • Developed and compared three machine learning models:
