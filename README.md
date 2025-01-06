@@ -41,6 +41,11 @@ Ethical AI Integration
 This project showcases the potential of machine learning to transform financial operations by providing actionable insights for improving operational efficiency, customer satisfaction, and profitability.
 
 
+Skills and Tools:
+	•	Python: Data preprocessing, modeling, and evaluation (Scikit-learn, Pandas, Matplotlib).
+	•	Feature Engineering: Enhanced prediction accuracy through custom feature creation.
+	•	Model Optimization: Hyperparameter tuning with grid search and random search methods.
+
 Technologies Used
 	•	Python: For data preprocessing, modeling, and analysis.
 	•	Scikit-learn: For implementing machine learning algorithms.
