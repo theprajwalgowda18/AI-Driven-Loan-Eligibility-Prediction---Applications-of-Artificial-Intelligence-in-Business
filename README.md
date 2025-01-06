@@ -9,7 +9,7 @@ Objective
 
 
 Data Analysis
- •  Exploratory Data Analysis (EDA):
+ •  Exploratory Data Analysis (EDA)
  •  Applicants with good credit history achieved >80% approval rates.
  •  Semi-urban properties and applicant income emerged as significant predictors.
  •  Features were engineered, and missing data was imputed statistically for robust model training.
